@@ -1,7 +1,7 @@
 # lua-mba-obfuscation
 toy experiment in mixed-boolean arithmetic obfuscation
 
-expression "a + b = c" with invertible polynomial const enabled
+expression "a + b = c" with invertible polynomial const enabled<br>
 ![](https://github.com/Jody7/lua-mba-obfuscation/raw/main/f031f6a107bc.gif)
 
 ---
